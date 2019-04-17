@@ -1,0 +1,30 @@
+{
+  "shoppingList": {
+    "allIngredients": {
+      "f2": {
+        "aisle": "Produce",
+        "amount": {
+          "cup": 9,
+          "oz": 3
+        },
+        "bought": false,
+        "id": "f2",
+        "name": "Spinach",
+        "recipes": {
+          "Cilantro Lemon Pasta": 2
+        }
+      },
+
+      "f6": {
+        "aisle": "Produce",
+        "amount": {
+          "whole": 2.5
+        },
+        "bought": false,
+        "id": "f6",
+        "name": "Avocado (mashed)",
+        "recipes": {"Veggie and Hummus Sandwich": 5}
+      }
+    }
+  }
+}
